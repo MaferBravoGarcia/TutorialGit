@@ -1,0 +1,15 @@
+
+gsA20=limits(out.glvsA20)$Aest
+save(gsA20, file= "RedgLVSinA20.RData")
+
+#gsA25=limits(out.glvsA25)$Aest
+#save(gsA25, file= "RedgLVSinA25.RData")
+
+#gsA30=limits(out.glvsA30)$Aest
+#save(gsA30, file= "RedgLVSinA30.RData")
+
+#gsA35=limits(out.glvsA35)$Aest
+#save(gsA35, file= "RedgLVSinA35.RData")
+
+gsA40=limits(out.glvsA40)$Aest
+save(gsA40, file= "RedgLVSinA40.RData")
